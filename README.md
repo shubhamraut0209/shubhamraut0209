@@ -46,7 +46,6 @@ With a Master's in Statistics and hands-on experience across 10+ real-world anal
 ## 🚀 Let's Connect!
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-raut-986bb1227)  
 📫 Email: shubhamraut123.com@gmail.com
-
 🌐 [Portfolio](https://github.com/shubhamraut0209)
 
 ---
