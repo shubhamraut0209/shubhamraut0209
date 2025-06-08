@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham Raut
 
-🎯 Aspiring Data Analyst with a strong foundation in Statistics, Mathematics, and hands-on data projects using Python, R, SQL, Power BI, and Excel.  
-Currently interning at Inlighn Tech, contributing to real-world business problems using data!
+🎯 **Data Analyst & Mentor @ InLighnX Global Pvt. Ltd.**  
+With a Master's in Statistics and hands-on experience across 10+ real-world analytics projects, I specialize in turning data into insights—and now, guiding upcoming analysts to do the same.
 
 ---
 
@@ -16,6 +16,12 @@ Currently interning at Inlighn Tech, contributing to real-world business problem
 ---
 
 ## 📂 Featured Projects
+🔹 [Customer Churn Prediction](https://github.com/shubhamraut0209/Personal-Projects-Portfolio)  
+📉 Used ensemble models (Random Forest, XGBoost) to flag at-risk telecom customers with ~85% accuracy.
+
+🔹 [Voice-Activated AI Chatbot](https://github.com/shubhamraut0209/Voice-Activated-AI-Chatbot)  
+🎤 Integrated speech recognition, Wikipedia API, and Python automation into a voice-driven assistant.
+
 🔹 [Retail Analysis with Walmart Data](https://github.com/yourusername/Data-Science-Projects-Simplilearn)  
 📊 Logistic Regression model used to identify sales trends across 45 stores.
 
@@ -30,9 +36,17 @@ Currently interning at Inlighn Tech, contributing to real-world business problem
 
 ---
 
+## 🧑‍🏫 What I'm Doing Now
+- Mentoring Data Analyst, Data Scientist, and Business Analyst interns at InLighnX  
+- Leading weekly live sessions, building projects, and guiding hands-on learning  
+- Upgrading internship content for structured data analytics training
+
+---
+
 ## 🚀 Let's Connect!
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-raut-986bb1227)  
 📫 Email: shubhamraut123.com@gmail.com
+🌐 [Portfolio](https://github.com/shubhamraut0209)
 
 ---
 
