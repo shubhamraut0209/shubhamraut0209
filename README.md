@@ -16,22 +16,22 @@ With a Master's in Statistics and hands-on experience across 10+ real-world anal
 ---
 
 ## 📂 Featured Projects
-🔹 [Customer Churn Prediction](https://github.com/shubhamraut0209/Personal-Projects-Portfolio)  
+🔹 [Customer Churn Prediction](https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Customer-Churn-Prediction)  
 📉 Used ensemble models (Random Forest, XGBoost) to flag at-risk telecom customers with ~85% accuracy.
 
-🔹 [Voice-Activated AI Chatbot](https://github.com/shubhamraut0209/Voice-Activated-AI-Chatbot)  
+🔹 [Voice-Activated AI Chatbot](https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Voice-Activated-AI-Chatbot)  
 🎤 Integrated speech recognition, Wikipedia API, and Python automation into a voice-driven assistant.
 
-🔹 [Retail Analysis with Walmart Data](https://github.com/yourusername/Data-Science-Projects-Simplilearn)  
+🔹 [Retail Analysis with Walmart Data](https://github.com/shubhamraut0209/Data-Science-Projects-Simplilearn)  
 📊 Logistic Regression model used to identify sales trends across 45 stores.
 
-🔹 [Market Basket Analysis - Online Retail II](https://github.com/yourusername/Personal-Projects-Portfolio)  
+🔹 [Market Basket Analysis - Online Retail II](https://github.com/shubhamraut0209/Personal-Projects-Portfolio)  
 🛒 Association rules mined to uncover customer purchasing patterns.
 
-🔹 [TATA: Data Visualization Job Simulation](https://github.com/yourusername/TATA-Data-Visualization-Project)  
+🔹 [TATA: Data Visualization Job Simulation](https://github.com/shubhamraut0209/TATA-Data-Visualization-Project)  
 📈 Created actionable dashboards using Power BI and Tableau.
 
-🔹 [JPMorgan Quantitative Research Simulation](https://github.com/yourusername/JPMorgan-Quantitative-Research-Project)  
+🔹 [JPMorgan Quantitative Research Simulation](https://github.com/shubhamraut0209/JPMorgan-Quantitative-Research-Project)  
 📉 Applied predictive modeling to commodity storage and credit risk.
 
 ---
@@ -46,6 +46,7 @@ With a Master's in Statistics and hands-on experience across 10+ real-world anal
 ## 🚀 Let's Connect!
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-raut-986bb1227)  
 📫 Email: shubhamraut123.com@gmail.com
+
 🌐 [Portfolio](https://github.com/shubhamraut0209)
 
 ---
