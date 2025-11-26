@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Raut
 
-🎯 **Data Analyst & Mentor @ InLighnX Global Pvt. Ltd.**  
+🎯 **Data Analyst @ InLighnX Global Pvt. Ltd.**  
 With a Master's in Statistics and hands-on experience across 10+ real-world analytics projects, I specialize in turning data into insights—and now, guiding upcoming analysts to do the same.
 
 ---
