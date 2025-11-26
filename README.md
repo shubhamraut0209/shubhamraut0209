@@ -19,13 +19,11 @@ I enjoy transforming complex datasets into clear, meaningful insights that enabl
 ---
 
 ## 📂 Featured Projects
-🔹 **Credit Card Fraud Detection**  
+🔹 [Credit Card Fraud Detection](https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Credit-Card-Fraud-Detection)
 📉 Built ML models (Logistic Regression, XGBoost, Random Forest) to classify fraud on imbalanced datasets using SMOTE and ROC-AUC evaluation.  
-➡️ Repo: *(https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Credit-Card-Fraud-Detection)*
 
-🔹 **Airbnb Price Prediction**  
+🔹 [Airbnb Price Prediction](https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Airbnb-Price-Prediction-NYC)
 🏡 Developed regression models to estimate prices using feature engineering and EDA.  
-➡️ Repo: *(https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Airbnb-Price-Prediction-NYC)*
 
 🔹 [Voice-Activated AI Chatbot](https://github.com/shubhamraut0209/Data-Analyst-Internship-Projects/tree/main/Voice-Activated-AI-Chatbot)  
 🎤 Automated tasks using speech recognition, NLP, and Python APIs.
